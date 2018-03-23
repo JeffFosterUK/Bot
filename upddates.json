@@ -1,0 +1,58 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 888966145,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 439398622,
+          "is_bot": false,
+          "first_name": "Jeff",
+          "last_name": "Foster(UK)",
+          "username": "JeffFosterUK",
+          "language_code": "en-gb"
+        },
+        "chat": {
+          "id": 439398622,
+          "first_name": "Jeff",
+          "last_name": "Foster(UK)",
+          "username": "JeffFosterUK",
+          "type": "private"
+        },
+        "date": 1520487413,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 888966146,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 439398622,
+          "is_bot": false,
+          "first_name": "Jeff",
+          "last_name": "Foster(UK)",
+          "username": "JeffFosterUK",
+          "language_code": "en-gb"
+        },
+        "chat": {
+          "id": 439398622,
+          "first_name": "Jeff",
+          "last_name": "Foster(UK)",
+          "username": "JeffFosterUK",
+          "type": "private"
+        },
+        "date": 1520490145,
+        "text": "привет"
+      }
+    }
+  ]
+}

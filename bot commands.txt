@@ -1,0 +1,14 @@
+btc - Курс BTC
+creator - Создатель бота
+roll - Число от 1 до 10
+ask - Задать вопрос
+discord - Discord канал
+group - Группа ВК
+group_steam - Группа Steam
+instagram - Фоточки
+steam - Профиль Steam
+sub - Подписка на Twitch
+trade - Трейд
+twitch - Twitch канал
+vk - ВК
+youtube - Видео
